@@ -1,0 +1,6 @@
+﻿  test.c
+d:\visual saving files 2\advanced programing 2\the image project\image\src\test.c(69): warning C4305: 'function': truncation from 'double' to 'float'
+d:\visual saving files 2\advanced programing 2\the image project\image\src\test.c(71): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+d:\visual saving files 2\advanced programing 2\the image project\image\src\test.c(73): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\visual saving files 2\advanced programing 2\the image project\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\visual saving files 2\advanced programing 2\the image project\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
